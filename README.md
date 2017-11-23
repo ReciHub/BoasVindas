@@ -1,4 +1,4 @@
-# Seja bem vind@ ao ReciHub :sunny:
+# É um prazer te receber no ReciHub :sunny:
 
 <br></br>
 ![lockup](https://avatars2.githubusercontent.com/u/33151930?s=200&v=4)
