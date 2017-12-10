@@ -13,7 +13,7 @@ Sabemos que o povo pernambucano é o povo mais criativo em linha reta do mundo, 
 
 Primeiro conheça o nosso [código de conduta](https://github.com/ReciHub/BoasVindas/blob/master/C%C3%B3digo%20de%20Conduta.md) ao entrar no ReciHub você concorda com todos os termos do código.
 
-Basta acessar o nosso [formulário de submissão](https://recihub.github.io/inscreva-se/), submeter a sua aplicação e esperar para que a gente te dê um retorno o mais rápido possível!
+Agora basta acessar o nosso [formulário de submissão](https://recihub.github.io/inscreva-se/), submeter a sua aplicação e esperar para que a gente te dê um retorno o mais rápido possível!
 
 ## E como faço para interagir com a comunidade?
 
