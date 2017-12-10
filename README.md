@@ -11,7 +11,7 @@ Sabemos que o povo pernambucano é o povo mais criativo em linha reta do mundo, 
 
 ## E como eu faço para me tornar um membro do ReciHub?
 
-Primeiro conheça o nosso [código de conduta](https://github.com/ReciHub/BoasVindas/blob/master/C%C3%B3digo%20de%20Conduta.md) ao entrar no ReciHub você concorda com todos os termos do código.
+Primeiro conheça o nosso [código de conduta](https://github.com/ReciHub/BoasVindas/blob/master/C%C3%B3digo%20de%20Conduta.md), ao entrar no ReciHub você concorda com todos os termos do código.
 
 Agora basta acessar o nosso [formulário de submissão](https://recihub.github.io/inscreva-se/), submeter a sua aplicação e esperar para que a gente te dê um retorno o mais rápido possível!
 
