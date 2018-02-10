@@ -1,6 +1,5 @@
 # É um prazer te receber no ReciHub
 
-<br>
 ![lockup](https://avatars2.githubusercontent.com/u/33151930?s=200&v=4)
 
 ## Afinal, o que é o ReciHub?
