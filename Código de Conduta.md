@@ -68,6 +68,7 @@ Para contato através de email você pode optar por contatar os organizadores in
 Lista de organizadores - [Organizadores em cópia](mailto:contato@otaciliomaia.com,tasm2@cin.ufpe.br)
  - Otacilio Maia - [contato@otaciliomaia.com](mailto:contato@otaciliomaia.com)
  - Thiago Augusto - [tasm2@cin.ufpe.br](mailto:tasm2@cin.ufpe.br)
+ - Ramon Wanderley - [ramonwanderley13@gmail.com](mailto:ramonwanderley13@gmail.com)
 
 ## 9. Licença e Atribuições
 
