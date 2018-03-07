@@ -46,7 +46,7 @@ Se você está sujeito ou testemunha um comportamento inaceitável, ou tem outra
 
  - Otacilio Maia - [contato@otaciliomaia.com](mailto:contato@otaciliomaia.com)
  - Thiago Augusto - [tasm2@cin.ufpe.br](mailto:tasm2@cin.ufpe.br)
-
+ - Ramon Wanderley - [ramonwanderley13@gmail.com](mailto:ramonwanderley13@gmail.com)
 Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se envolverem com a aplicação da lei local ou, de outra forma, ajudar aqueles que vivenciam comportamentos inaceitáveis e se sentem seguros. No contexto de evento, em pessoa, os organizadores também fornecerão escoltas conforme desejado pela pessoa que está necessitando.
 
 ## 6. Contestações
