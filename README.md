@@ -19,7 +19,7 @@ Agora basta acessar o nosso [formulário de submissão](https://recihub.github.i
 
 Possuimos vários canais de comunicação, o primeiro deles é o próprio GitHub através das Teams Discussions, também é possível utilizar as Issues para realizar certas interações, porém também temos disponível:
 - [GitHub](https://github.com/ReciHub/BoasVindas)
-- [Slack](https://recihub.slack.com/join/shared_invite/enQtMjcxMDA3NDUzNTg3LTk5NzIzYmM2Y2QwMzQ5NGY5NDFmNmNlNzVkNzRjNTYwMTk3M2E0OWRkYzA1MmY1MjA2MThhZTUzNDVkZDBlMzU)
+- [Slack](https://join.slack.com/t/recihub/shared_invite/enQtMjkxNjQ1NDcyNjQzLWE4YzU2ZjA2ZGQ2Y2ViYzgwNzgxNmU5OGNmMDk3MWFjYjcxMDNhN2U5NDg0MTVhMDU2YTAxOWVmYWI3ZDY0ZjU)
 - [Página no Facebook](https://facebook.com/recihub/)
 - [Grupo do Facebook](https://www.facebook.com/groups/153306045298627/)
 
